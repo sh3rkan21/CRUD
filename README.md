@@ -4,4 +4,4 @@ INSTAL:
 
 1. run "composer install" in terminal.
 2. import crud.sql into your PHPMyAdmin.
-3. change variables from mysqli with your host, username, and password.
+3. change variables from process.php with your host, username, and password.
